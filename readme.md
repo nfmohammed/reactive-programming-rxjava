@@ -1,5 +1,7 @@
 #### Reactive Programming RxJava
 
+- https://www.udemy.com/course/master-java-reactive-programming-with-rxjava-2/
+
 - Reactive programming has `Push` approach compared to traditional `Pull` approach in Java.
 
 - Earlier, application would worry about pulling the data from database/service but with reactive programming the observables allows us to push the data as notification.
